@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://github.com/moehr1z/moehr1z/blob/main/nyancat.gif)
 
 <!--
 **moehr1z/moehr1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
